@@ -8,5 +8,5 @@ Useful for Node.js / Express.js app authentication combined with this package: [
 ## HTTP scheme signatures
 [HTTP scheme signatures](https://github.com/arkerone/api-key-auth/blob/HEAD/signature.md)
 
-## Exemple output
-**Signature keyid="123456789",algorithm="hmac-sha1",headers="date",signature="X+DG+jRFd/4C+81XmUXQoimry7c=**
+## Exemple Authorization output
+Signature keyid="123456789",algorithm="hmac-sha1",headers="date",signature="X+DG+jRFd/4C+81XmUXQoimry7c="
