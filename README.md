@@ -3,7 +3,7 @@
 ## Description
 
 Postman Pre-Request Script that Generate HMAC-SHA1 valid 'Authorization' header following HTTP signature scheme.
-Useful for Node.js / Express.js app authentication combined with this package: [api-key-auth](ttps://github.com/arkerone/api-key-auth)
+Useful for Node.js / Express.js app authentication combined with this package: [api-key-auth](https://github.com/arkerone/api-key-auth)
 
 ## HTTP scheme signatures
 [HTTP scheme signatures](https://github.com/arkerone/api-key-auth/blob/HEAD/signature.md)
