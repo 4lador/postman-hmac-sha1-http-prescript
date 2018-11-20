@@ -14,7 +14,6 @@ headersMap.set('content-type', 'application/json');
 // iterate over the headers map and create the header string
 var headersArr = [];
 var headersNames = [];
-var headersMap = headersMap;
 headersMap.forEach(function(value, key) {
     headersArr.push(key + ': ' + value);
     headersNames.push(key);
